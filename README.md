@@ -1,1 +1,1 @@
-# Project-Bussines-Intelligent
+# Project-Bussiness-Intelligence
